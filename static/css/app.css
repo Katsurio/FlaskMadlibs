@@ -59,3 +59,21 @@ END Navbar
 /*** 
 END Main Content
 **************************/
+
+/***************************
+ Form
+*******/
+.madlib-form > div {
+  display: block;
+  position: relative;
+  margin: 10px 0;
+}
+
+div > input {
+  position: absolute;
+  left: 150px;
+}
+
+/*** 
+END Form
+**************************/
